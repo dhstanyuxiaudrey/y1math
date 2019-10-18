@@ -17,4 +17,5 @@
 #
 # Extension: Write Python code that generate questions,
 # i.e. numbers and query students about the number of signficant
-# figures of the given number, and give feedback to student's answer.
+# figures of the given number, and give feedback to student's answer
+The significant figures of a number are precision measurement resolution. This includes all digits except: all leading zeros.
