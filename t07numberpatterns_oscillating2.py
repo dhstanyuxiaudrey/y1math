@@ -4,3 +4,4 @@ k = 10
 
 for i in range(1, k+1):
   
+A list of numbers that follow a certain sequence or pattern
